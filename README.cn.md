@@ -12,7 +12,7 @@ Feature packed AUR helper
 x install paru
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **10,359** 行代码（覆盖前 5 种语言、共 **44** 个文件）。
 
@@ -47,7 +47,7 @@ x install paru
 
 ## 流行度
 
-- **Star**: 8,978 · **Fork**: 325 · **开放 issue**: 1,078 · **贡献者**: 120
+- **Star**: 8,979 · **Fork**: 325 · **开放 issue**: 1,078 · **贡献者**: 120
 
 ## 累计统计
 
@@ -89,4 +89,4 @@ paru 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T21:06:40Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:40:32Z._

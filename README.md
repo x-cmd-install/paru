@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,978 · **Forks**: 325 · **Open issues**: 1,078 · **Contributors**: 120
+- **Stars**: 8,979 · **Forks**: 325 · **Open issues**: 1,078 · **Contributors**: 120
 
 ## Totals (cumulative)
 
@@ -89,4 +89,4 @@ Install metadata for paru lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:06:39Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:40:31Z._
