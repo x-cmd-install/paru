@@ -26,13 +26,13 @@ x install paru
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.4 / 10**
+总评分: **3.1 / 10**
 
 评分最低的几项:
 
+- **Maintained** (1/10) — 0 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install paru
 
 ## 流行度
 
-- **Star**: 9,001 · **Fork**: 327 · **开放 issue**: 1,079 · **贡献者**: 120
+- **Star**: 9,000 · **Fork**: 327 · **开放 issue**: 1,079 · **贡献者**: 120
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install paru
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 3 | 1 | 6 | 0 |
-| 90d | 2026-06-30 | 0 | 0 | 4 | 1 | 10 | 0 |
-| last180d | 2026-04-01 | 0 | 0 | 16 | 12 | 27 | 0 |
-| 360d | 2025-10-03 | 0 | 18 | 27 | 36 | 61 | 24 |
-| last720d | 2024-10-08 | 1 | 40 | 38 | 93 | 100 | 145 |
+| 30d | 2026-08-30 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-07-31 | 0 | 0 | 2 | 1 | 5 | 0 |
+| 90d | 2026-07-01 | 0 | 0 | 4 | 1 | 10 | 0 |
+| last180d | 2026-04-02 | 0 | 0 | 15 | 12 | 27 | 0 |
+| 360d | 2025-10-04 | 0 | 18 | 27 | 36 | 61 | 24 |
+| last720d | 2024-10-09 | 1 | 40 | 38 | 92 | 100 | 145 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ paru 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T06:47:32Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T07:06:52Z._

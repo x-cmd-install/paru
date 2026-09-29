@@ -26,13 +26,13 @@ Total: **10,359** lines of code across **44** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.4 / 10**
+Overall score: **3.1 / 10**
 
 Lowest-scoring checks:
 
+- **Maintained** (1/10) — 0 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,001 · **Forks**: 327 · **Open issues**: 1,079 · **Contributors**: 120
+- **Stars**: 9,000 · **Forks**: 327 · **Open issues**: 1,079 · **Contributors**: 120
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 3 | 1 | 6 | 0 |
-| 90d | 2026-06-30 | 0 | 0 | 4 | 1 | 10 | 0 |
-| last180d | 2026-04-01 | 0 | 0 | 16 | 12 | 27 | 0 |
-| 360d | 2025-10-03 | 0 | 18 | 27 | 36 | 61 | 24 |
-| last720d | 2024-10-08 | 1 | 40 | 38 | 93 | 100 | 145 |
+| 30d | 2026-08-30 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-07-31 | 0 | 0 | 2 | 1 | 5 | 0 |
+| 90d | 2026-07-01 | 0 | 0 | 4 | 1 | 10 | 0 |
+| last180d | 2026-04-02 | 0 | 0 | 15 | 12 | 27 | 0 |
+| 360d | 2025-10-04 | 0 | 18 | 27 | 36 | 61 | 24 |
+| last720d | 2024-10-09 | 1 | 40 | 38 | 92 | 100 | 145 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for paru lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:47:31Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T07:06:52Z._
