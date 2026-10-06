@@ -14,11 +14,11 @@ x install paru
 
 ## 代码洞察
 
-合计: **10,359** 行代码（覆盖前 5 种语言、共 **44** 个文件）。
+合计: **10,371** 行代码（覆盖前 5 种语言、共 **44** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 10,093 | 37 | 1,521 | 34 |
+| Rust | 10,105 | 37 | 1,525 | 34 |
 | Bash | 92 | 12 | 27 | 3 |
 | Toml | 69 | 6 | 8 | 2 |
 | Bitbake | 62 | 33 | 13 | 4 |
@@ -26,11 +26,11 @@ x install paru
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.1 / 10**
+总评分: **3.2 / 10**
 
 评分最低的几项:
 
-- **Maintained** (1/10) — 0 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 1
+- **Maintained** (2/10) — 0 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -42,27 +42,27 @@ x install paru
 ## 发布
 
 - **最新版本**: `v2.1.0` (2025-07-08)
-- **最近提交**: 2026-01-09
+- **最近提交**: 2026-10-05
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 9,009 · **Fork**: 329 · **开放 issue**: 1,080 · **贡献者**: 120
+- **Star**: 9,011 · **Fork**: 329 · **开放 issue**: 1,080 · **贡献者**: 120
 
 ## 累计统计
 
-- **发布数**: 37 · **已合并 PR**: 239 · **开放 PR**: 50 · **已关闭 issue**: 922 · **开放 issue**: 158 · **提交数**: 1303
+- **发布数**: 37 · **已合并 PR**: 239 · **开放 PR**: 50 · **已关闭 issue**: 922 · **开放 issue**: 158 · **提交数**: 1304
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 3 | 0 | 2 | 0 |
-| last60d | 2026-08-06 | 0 | 0 | 3 | 0 | 6 | 0 |
-| 90d | 2026-07-07 | 0 | 0 | 4 | 1 | 11 | 0 |
-| last180d | 2026-04-08 | 0 | 0 | 16 | 11 | 28 | 0 |
-| 360d | 2025-10-10 | 0 | 11 | 27 | 34 | 61 | 20 |
-| last720d | 2024-10-15 | 1 | 36 | 39 | 88 | 101 | 141 |
+| 30d | 2026-09-06 | 0 | 0 | 3 | 0 | 2 | 1 |
+| last60d | 2026-08-07 | 0 | 0 | 3 | 0 | 6 | 1 |
+| 90d | 2026-07-08 | 0 | 0 | 4 | 1 | 11 | 1 |
+| last180d | 2026-04-09 | 0 | 0 | 15 | 11 | 28 | 1 |
+| 360d | 2025-10-11 | 0 | 10 | 27 | 33 | 61 | 21 |
+| last720d | 2024-10-16 | 1 | 36 | 39 | 88 | 101 | 141 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ paru 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T07:05:02Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T07:52:13Z._
