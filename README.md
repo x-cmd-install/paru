@@ -30,8 +30,8 @@ Overall score: **3.2 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (3/10) — 1 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (3/10) — 1 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,036 · **Forks**: 329 · **Open issues**: 1,082 · **Contributors**: 120
+- **Stars**: 9,037 · **Forks**: 329 · **Open issues**: 1,082 · **Contributors**: 120
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 3 | 0 | 3 | 1 |
-| last60d | 2026-08-20 | 0 | 0 | 3 | 0 | 5 | 1 |
-| 90d | 2026-07-21 | 0 | 0 | 4 | 1 | 11 | 1 |
-| last180d | 2026-04-22 | 0 | 0 | 12 | 11 | 26 | 1 |
-| 360d | 2025-10-24 | 0 | 8 | 27 | 34 | 60 | 19 |
-| last720d | 2024-10-29 | 1 | 36 | 39 | 88 | 101 | 141 |
+| 30d | 2026-09-20 | 0 | 0 | 2 | 0 | 3 | 1 |
+| last60d | 2026-08-21 | 0 | 0 | 3 | 0 | 5 | 1 |
+| 90d | 2026-07-22 | 0 | 0 | 4 | 1 | 11 | 1 |
+| last180d | 2026-04-23 | 0 | 0 | 10 | 10 | 25 | 1 |
+| 360d | 2025-10-25 | 0 | 8 | 27 | 34 | 58 | 19 |
+| last720d | 2024-10-30 | 1 | 36 | 39 | 88 | 101 | 141 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for paru lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:57:47Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T06:14:48Z._
