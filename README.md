@@ -30,8 +30,8 @@ Overall score: **3.2 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Maintained** (3/10) — 1 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 3
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,048 · **Forks**: 330 · **Open issues**: 1,082 · **Contributors**: 120
+- **Stars**: 9,047 · **Forks**: 328 · **Open issues**: 1,082 · **Contributors**: 120
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 2 | 0 | 3 | 1 |
-| last60d | 2026-08-27 | 0 | 0 | 3 | 0 | 4 | 1 |
-| 90d | 2026-07-28 | 0 | 0 | 4 | 1 | 9 | 1 |
-| last180d | 2026-04-29 | 0 | 0 | 10 | 10 | 23 | 1 |
-| 360d | 2025-10-31 | 0 | 8 | 27 | 34 | 55 | 19 |
-| last720d | 2024-11-05 | 1 | 36 | 38 | 88 | 100 | 141 |
+| 30d | 2026-09-27 | 0 | 0 | 1 | 0 | 3 | 1 |
+| last60d | 2026-08-28 | 0 | 0 | 3 | 0 | 4 | 1 |
+| 90d | 2026-07-29 | 0 | 0 | 4 | 1 | 9 | 1 |
+| last180d | 2026-04-30 | 0 | 0 | 10 | 10 | 23 | 1 |
+| 360d | 2025-11-01 | 0 | 8 | 27 | 34 | 55 | 19 |
+| last720d | 2024-11-06 | 1 | 36 | 38 | 88 | 100 | 141 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for paru lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:58:01Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:25:51Z._
