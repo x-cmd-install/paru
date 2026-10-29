@@ -14,14 +14,14 @@ x install paru
 
 ## 代码洞察
 
-合计: **10,377** 行代码（覆盖前 5 种语言、共 **44** 个文件）。
+合计: **11,232** 行代码（覆盖前 5 种语言、共 **46** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 10,111 | 37 | 1,525 | 34 |
+| Rust | 10,965 | 39 | 1,598 | 35 |
 | Bash | 92 | 12 | 27 | 3 |
-| Toml | 69 | 6 | 8 | 2 |
-| Bitbake | 62 | 33 | 13 | 4 |
+| Toml | 70 | 6 | 8 | 3 |
+| Bitbake | 62 | 35 | 13 | 4 |
 | Dockerfile | 28 | 0 | 13 | 1 |
 
 ## OpenSSF Scorecard 评分
@@ -41,36 +41,36 @@ x install paru
 
 ## 发布
 
-- **最新版本**: `v2.1.0` (2025-07-08)
-- **最近提交**: 2026-10-27
+- **最新版本**: `v2.2.0` (2026-10-29)
+- **最近提交**: 2026-10-28
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 9,050 · **Fork**: 328 · **开放 issue**: 1,082 · **贡献者**: 122
+- **Star**: 9,050 · **Fork**: 328 · **开放 issue**: 1,083 · **贡献者**: 122
 
 ## 累计统计
 
-- **发布数**: 37 · **已合并 PR**: 247 · **开放 PR**: 35 · **已关闭 issue**: 935 · **开放 issue**: 147 · **提交数**: 1321
+- **发布数**: 38 · **已合并 PR**: 256 · **开放 PR**: 29 · **已关闭 issue**: 938 · **开放 issue**: 145 · **提交数**: 1350
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 1 | 1 | 0 | 3 | 2 |
-| last60d | 2026-08-29 | 0 | 3 | 1 | 0 | 4 | 5 |
-| 90d | 2026-07-30 | 0 | 3 | 2 | 1 | 9 | 5 |
-| last180d | 2026-05-01 | 0 | 4 | 7 | 12 | 21 | 6 |
-| 360d | 2025-11-02 | 0 | 16 | 20 | 38 | 50 | 28 |
-| last720d | 2024-11-07 | 1 | 44 | 26 | 96 | 92 | 158 |
+| 30d | 2026-09-29 | 1 | 7 | 1 | 0 | 4 | 22 |
+| last60d | 2026-08-30 | 1 | 9 | 1 | 0 | 5 | 25 |
+| 90d | 2026-07-31 | 1 | 9 | 1 | 2 | 8 | 25 |
+| last180d | 2026-05-02 | 1 | 11 | 6 | 14 | 20 | 26 |
+| 360d | 2025-11-03 | 1 | 25 | 15 | 41 | 48 | 49 |
+| last720d | 2024-11-08 | 2 | 53 | 21 | 97 | 90 | 187 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [paru-v2.1.0-aarch64.tar.zst](https://github.com/Morganamilo/paru/releases/download/v2.1.0/paru-v2.1.0-aarch64.tar.zst) | 3.2 MiB | `other` |
-| [paru-v2.1.0-armv7h.tar.zst](https://github.com/Morganamilo/paru/releases/download/v2.1.0/paru-v2.1.0-armv7h.tar.zst) | 3.2 MiB | `other` |
-| [paru-v2.1.0-x86_64.tar.zst](https://github.com/Morganamilo/paru/releases/download/v2.1.0/paru-v2.1.0-x86_64.tar.zst) | 3.4 MiB | `other` |
+| [paru-v2.2.0-aarch64.tar.zst](https://github.com/Morganamilo/paru/releases/download/v2.2.0/paru-v2.2.0-aarch64.tar.zst) | 3.1 MiB | `other` |
+| [paru-v2.2.0-armv7h.tar.zst](https://github.com/Morganamilo/paru/releases/download/v2.2.0/paru-v2.2.0-armv7h.tar.zst) | 3.1 MiB | `other` |
+| [paru-v2.2.0-x86_64.tar.zst](https://github.com/Morganamilo/paru/releases/download/v2.2.0/paru-v2.2.0-x86_64.tar.zst) | 3.3 MiB | `other` |
 
 ## 改进这些数据
 
@@ -81,4 +81,4 @@ paru 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261028.yml` · 2026-10-28T07:09:54Z._
+_数据快照: `data/card/261029.yml` · 2026-10-29T07:13:56Z._
