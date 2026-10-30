@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,050 · **Forks**: 328 · **Open issues**: 1,083 · **Contributors**: 122
+- **Stars**: 9,056 · **Forks**: 329 · **Open issues**: 1,083 · **Contributors**: 122
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 256 · **Open PRs**: 29 · **Closed issues**: 938 · **Open issues**: 145 · **Commits**: 1350
+- **Releases**: 38 · **Merged PRs**: 256 · **Open PRs**: 30 · **Closed issues**: 946 · **Open issues**: 137 · **Commits**: 1350
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 7 | 1 | 0 | 4 | 22 |
-| last60d | 2026-08-30 | 1 | 9 | 1 | 0 | 5 | 25 |
-| 90d | 2026-07-31 | 1 | 9 | 1 | 2 | 8 | 25 |
-| last180d | 2026-05-02 | 1 | 11 | 6 | 14 | 20 | 26 |
-| 360d | 2025-11-03 | 1 | 25 | 15 | 41 | 48 | 49 |
-| last720d | 2024-11-08 | 2 | 53 | 21 | 97 | 90 | 187 |
+| 30d | 2026-09-30 | 1 | 7 | 2 | 0 | 4 | 22 |
+| last60d | 2026-08-31 | 1 | 9 | 2 | 0 | 5 | 25 |
+| 90d | 2026-08-01 | 1 | 9 | 2 | 2 | 8 | 25 |
+| last180d | 2026-05-03 | 1 | 11 | 7 | 14 | 20 | 26 |
+| 360d | 2025-11-04 | 1 | 25 | 16 | 43 | 46 | 49 |
+| last720d | 2024-11-09 | 2 | 52 | 22 | 103 | 84 | 187 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for paru lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T07:13:55Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T07:14:53Z._
