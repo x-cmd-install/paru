@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3266380,
       "digest": "sha256:26d34fd815a8bb7d0ffe60247c7eb36c36d927d592382eb44b9ec2649e2543d8",
-      "download_count": 30,
+      "download_count": 39,
       "created_at": "2026-10-28T23:56:36Z",
       "updated_at": "2026-10-28T23:56:36Z",
       "browser_download_url": "https://github.com/Morganamilo/paru/releases/download/v2.2.0/paru-v2.2.0-aarch64.tar.zst"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3456725,
       "digest": "sha256:52fc01ebd5ad120c19e0f879b0c262f3c81c58f956dba2f0d700457e1aa846cf",
-      "download_count": 1080,
+      "download_count": 1477,
       "created_at": "2026-10-28T23:56:36Z",
       "updated_at": "2026-10-28T23:56:36Z",
       "browser_download_url": "https://github.com/Morganamilo/paru/releases/download/v2.2.0/paru-v2.2.0-x86_64.tar.zst"
