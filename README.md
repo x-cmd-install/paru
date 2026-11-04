@@ -14,11 +14,11 @@ x install paru
 
 ## Code insight
 
-Total: **11,232** lines of code across **46** files in the top 5 languages.
+Total: **11,280** lines of code across **46** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 10,965 | 39 | 1,598 | 35 |
+| Rust | 11,013 | 38 | 1,606 | 35 |
 | Bash | 92 | 12 | 27 | 3 |
 | Toml | 70 | 6 | 8 | 3 |
 | Bitbake | 62 | 35 | 13 | 4 |
@@ -26,12 +26,12 @@ Total: **11,232** lines of code across **46** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.2 / 10**
+Overall score: **3.8 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (3/10) — 1 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (2/10) — Found 2/9 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.2.0` (2026-10-29)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-11-03
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 9,070 · **Forks**: 331 · **Open issues**: 1,084 · **Contributors**: 122
+- **Stars**: 9,074 · **Forks**: 331 · **Open issues**: 1,085 · **Contributors**: 123
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 256 · **Open PRs**: 31 · **Closed issues**: 946 · **Open issues**: 138 · **Commits**: 1350
+- **Releases**: 38 · **Merged PRs**: 257 · **Open PRs**: 30 · **Closed issues**: 946 · **Open issues**: 139 · **Commits**: 1354
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 7 | 2 | 0 | 4 | 21 |
-| last60d | 2026-09-04 | 1 | 9 | 3 | 0 | 6 | 25 |
-| 90d | 2026-08-05 | 1 | 9 | 3 | 1 | 9 | 25 |
-| last180d | 2026-05-07 | 1 | 11 | 8 | 13 | 20 | 26 |
-| 360d | 2025-11-08 | 1 | 24 | 17 | 43 | 45 | 48 |
-| last720d | 2024-11-13 | 2 | 52 | 23 | 103 | 85 | 180 |
+| 30d | 2026-10-05 | 1 | 7 | 2 | 0 | 5 | 22 |
+| last60d | 2026-09-05 | 1 | 9 | 3 | 0 | 7 | 26 |
+| 90d | 2026-08-06 | 1 | 9 | 3 | 1 | 10 | 26 |
+| last180d | 2026-05-08 | 1 | 11 | 8 | 12 | 21 | 27 |
+| 360d | 2025-11-09 | 1 | 25 | 16 | 43 | 45 | 51 |
+| last720d | 2024-11-14 | 2 | 53 | 22 | 103 | 86 | 184 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for paru lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:30:24Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:53:33Z._
