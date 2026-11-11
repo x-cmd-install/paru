@@ -26,12 +26,12 @@ x install paru
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.8 / 10**
+总评分: **3.7 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (2/10) — Found 2/9 approved changesets -- score normalized to 2
+- **Code-Review** (0/10) — Found 1/14 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -57,12 +57,12 @@ x install paru
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 8 | 3 | 1 | 4 | 32 |
-| last60d | 2026-09-10 | 1 | 10 | 4 | 1 | 7 | 37 |
-| 90d | 2026-08-11 | 1 | 10 | 4 | 2 | 10 | 37 |
-| last180d | 2026-05-13 | 1 | 12 | 8 | 14 | 20 | 37 |
-| 360d | 2025-11-14 | 1 | 26 | 16 | 45 | 42 | 62 |
-| last720d | 2024-11-19 | 2 | 54 | 22 | 105 | 85 | 169 |
+| 30d | 2026-10-12 | 1 | 8 | 3 | 1 | 4 | 32 |
+| last60d | 2026-09-12 | 1 | 10 | 4 | 1 | 7 | 37 |
+| 90d | 2026-08-13 | 1 | 10 | 4 | 2 | 9 | 37 |
+| last180d | 2026-05-15 | 1 | 11 | 8 | 13 | 19 | 37 |
+| 360d | 2025-11-16 | 1 | 26 | 16 | 45 | 42 | 62 |
+| last720d | 2024-11-21 | 2 | 53 | 22 | 104 | 85 | 168 |
 
 ## Release 资产
 
@@ -81,4 +81,4 @@ paru 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T07:59:25Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T07:48:26Z._

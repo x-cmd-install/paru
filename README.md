@@ -26,12 +26,12 @@ Total: **13,962** lines of code across **46** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.8 / 10**
+Overall score: **3.7 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (2/10) — Found 2/9 approved changesets -- score normalized to 2
+- **Code-Review** (0/10) — Found 1/14 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 8 | 3 | 1 | 4 | 32 |
-| last60d | 2026-09-10 | 1 | 10 | 4 | 1 | 7 | 37 |
-| 90d | 2026-08-11 | 1 | 10 | 4 | 2 | 10 | 37 |
-| last180d | 2026-05-13 | 1 | 12 | 8 | 14 | 20 | 37 |
-| 360d | 2025-11-14 | 1 | 26 | 16 | 45 | 42 | 62 |
-| last720d | 2024-11-19 | 2 | 54 | 22 | 105 | 85 | 169 |
+| 30d | 2026-10-12 | 1 | 8 | 3 | 1 | 4 | 32 |
+| last60d | 2026-09-12 | 1 | 10 | 4 | 1 | 7 | 37 |
+| 90d | 2026-08-13 | 1 | 10 | 4 | 2 | 9 | 37 |
+| last180d | 2026-05-15 | 1 | 11 | 8 | 13 | 19 | 37 |
+| 360d | 2025-11-16 | 1 | 26 | 16 | 45 | 42 | 62 |
+| last720d | 2024-11-21 | 2 | 53 | 22 | 104 | 85 | 168 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for paru lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:59:25Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:48:25Z._
