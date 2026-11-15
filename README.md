@@ -14,11 +14,11 @@ x install paru
 
 ## Code insight
 
-Total: **14,852** lines of code across **46** files in the top 5 languages.
+Total: **15,374** lines of code across **46** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 14,584 | 41 | 1,809 | 35 |
+| Rust | 15,106 | 41 | 1,836 | 35 |
 | Bash | 92 | 12 | 27 | 3 |
 | Toml | 70 | 6 | 8 | 3 |
 | Bitbake | 63 | 35 | 13 | 4 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.2.0` (2026-10-29)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-15
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 9,081 · **Forks**: 335 · **Open issues**: 1,086 · **Contributors**: 131
+- **Stars**: 9,086 · **Forks**: 334 · **Open issues**: 1,086 · **Contributors**: 131
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 270 · **Open PRs**: 15 · **Closed issues**: 975 · **Open issues**: 111 · **Commits**: 1394
+- **Releases**: 38 · **Merged PRs**: 272 · **Open PRs**: 15 · **Closed issues**: 978 · **Open issues**: 108 · **Commits**: 1401
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 17 | 2 | 3 | 2 | 0 |
-| last60d | 2026-09-15 | 1 | 19 | 3 | 3 | 4 | 0 |
-| 90d | 2026-08-16 | 1 | 19 | 3 | 5 | 5 | 0 |
-| last180d | 2026-05-18 | 1 | 20 | 6 | 20 | 12 | 0 |
-| 360d | 2025-11-19 | 1 | 38 | 9 | 56 | 31 | 0 |
-| last720d | 2024-11-24 | 2 | 65 | 13 | 124 | 64 | 196 |
+| 30d | 2026-10-16 | 1 | 19 | 2 | 3 | 2 | 45 |
+| last60d | 2026-09-16 | 1 | 21 | 3 | 3 | 4 | 49 |
+| 90d | 2026-08-17 | 1 | 21 | 3 | 4 | 5 | 50 |
+| last180d | 2026-05-19 | 1 | 22 | 6 | 20 | 12 | 50 |
+| 360d | 2025-11-20 | 1 | 40 | 9 | 57 | 30 | 80 |
+| last720d | 2024-11-25 | 2 | 67 | 13 | 126 | 62 | 203 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for paru lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:24:37Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:13:50Z._
